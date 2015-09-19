@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecolearnia/ecofyjs-logger-facade.git"
+    "url": "https://github.com/altenia/ecofyjs-logger-facade.git"
   },
   "keywords": [
     "nodejs",
@@ -20,16 +20,16 @@
   "author": "Young Suk Ahn Park",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ecolearnia/ecofyjs-logger-facade/issues"
+    "url": "https://github.com/altenia/ecofyjs-logger-facade/issues"
   },
-  "homepage": "https://github.com/ecolearnia/ecofyjs-logger-facade",
+  "homepage": "https://github.com/altenia/ecofyjs-logger-facade",
   "devDependencies": {
     "chai": "^3.0.0",
     "mocha": "^2.2.5"
   },
   "dependencies": {
     "bunyan": "^1.4.0",
-    "ecofyjs-config": "git://github.com/ecolearnia/ecofyjs-config.git",
-    "ecofyjs-exception": "git://github.com/ecolearnia/ecofyjs-exception.git"
+    "ecofyjs-config": "git://github.com/altenia/ecofyjs-config.git",
+    "ecofyjs-exception": "git://github.com/altenia/ecofyjs-exception.git"
   }
 }
